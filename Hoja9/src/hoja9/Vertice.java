@@ -6,7 +6,7 @@ package hoja9;
 
 /**
  *
- * @author Luis José
+ * @author E. de Mata
  */
 public class Vertice {
     private String name;
